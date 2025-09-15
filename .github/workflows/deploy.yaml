@@ -1,4 +1,4 @@
-# 
+# backend CD trigger
 # GitHub Actions workflow.
 #
 # Automatically deploys the Node.js microservice to Kubernetes on push to any branch. 
